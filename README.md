@@ -1,6 +1,6 @@
 <h1 align="center">ECOLE 42</h1>
 
-![42 School](./03_Norme____(%D0%9D%D0%BE%D1%80%D0%BC%D1%8B_%D0%B8_%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%A8%D0%BA%D0%BE%D0%BB%D1%8B)/src/header/header_004_.png)
+![42 School](./03_Norme___(Ecole_rules)/src/header/header_004_.png)
 
 
 > ###### _Chose language:  [[ en ]](README.md) [[ ru ]](README_ru.md)_
@@ -38,7 +38,7 @@ School 42's curriculum is individualized. Here, everyone progresses on their own
 
 
 
-# 0. SCHOOL DOCUMENTATION #
+# 1. SCHOOL DOCUMENTATION #
 
 Here you can familiarize yourself with the rules in force within the walls of School 42, learn about the curriculum itself, read about the standards by which you will need to write code when solving tasks and projects, and also see everything that will help you start learning programming according to the program Schools 42.
 
@@ -83,7 +83,7 @@ Here you can familiarize yourself with the rules in force within the walls of Sc
 ---
 
 
-# 1. PISCINE C #
+# 2. PISCINE C #
 
 It is from this place that the teaching of programming in School 42 will begin.
 
@@ -108,7 +108,7 @@ Remember that learning the C programming language is fundamental to learning all
 ---
 
 
-# 2. MAIN TRAINING #
+# 3. MAIN TRAINING #
 
 [Core Learning Projects](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/)  represent the next step in programming learning. All of them are grouped by directions, which are represented as branches. Remember that each subsequent project of your chosen branch is more difficult than the previous one and can only be solved using the skills acquired in previous projects.
 
