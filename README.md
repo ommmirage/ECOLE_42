@@ -1,4 +1,4 @@
-<h1 align="center">ECOLE 42</h1>
+<h1 align="center">SCHOOL 42</h1>
 
 ![42 School](./03_Norme___(Ecole_rules)/src/header/header_004_.png)
 
