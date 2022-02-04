@@ -18,7 +18,7 @@ This repository contains ALL, the TASKS and the PROJECTS in the training program
 
 Projects and assignments will allow you to independently develop your programming skills, and the practical experience and knowledge gained while completing assignments and projects of School 42 will give you the necessary basis for professional integration, helping you to get a demanded profession from scratch.
 
-By sequentially moving through the directions, languages ​​and educational projects of School 42, using [the `Holy Graph` projects map](./01_Projects__(Main_Cource)/Holy_Graph.png), you will develop fundamental technical skills:
+By sequentially moving through the directions, languages ​​and educational projects of School 42, using [the `Holy Graph` projects map](./holygraph), you will develop fundamental technical skills:
 
 - System programming skills.
 - Knowing and understanding the essence of operating systems, networks, clouds and the services they contain.
@@ -93,36 +93,36 @@ Remember that learning the C programming language is fundamental to learning all
 
 [Core Learning Projects](./01_Projects__(Main_Cource)/)  represent the next step in programming learning. All of them are grouped by directions, which are represented as branches. Remember that each subsequent project of your chosen branch is more difficult than the previous one and can only be solved using the skills acquired in previous projects.
 
-Use [ the `Holy Graph` project map ](./01_Projects__(Main_Cource)/Holy_Graph.png) and [ the visual` highlighting_branches` ](./01_Projects__(Main_Cource)/highlighting_branches_Holy_Graph.gif) direction map to progress through the school 42 mainstream assignments/projects.
+Use [ the `Holy Graph` project map ](./holygraph) direction map to progress through the school 42 mainstream assignments/projects.
 
 ---
-> ### [[Global - shared branch]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/00_Global_(begin_cadet)/)
+> ### [[Global - shared branch]](./01_Projects__(Main_Cource)/00_Global_(begin_cadet)/)
 ---
 >> #### Basic training begins with this branch.
-> - [[>]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/00_Global_(begin_cadet)/01____libft) libft
-> - [[>]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/00_Global_(begin_cadet)/02____netwhat) netwhat
-> - [[>]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/00_Global_(begin_cadet)/03____get_next_line) get_next_Line
-> - [[>]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/00_Global_(begin_cadet)/04____fillit) fillit
+> - [[>]](./01_Projects__(Main_Cource)/00_Global_(begin_cadet)/01____libft) libft
+> - [[>]](./01_Projects__(Main_Cource)/00_Global_(begin_cadet)/02____netwhat) netwhat
+> - [[>]](./01_Projects__(Main_Cource)/00_Global_(begin_cadet)/03____get_next_line) get_next_Line
+> - [[>]](./01_Projects__(Main_Cource)/00_Global_(begin_cadet)/04____fillit) fillit
 ---
 
 
-> ### [[Algorithmic branch]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/02_Algorithmic/)
+> ### [[Algorithmic branch]](./01_Projects__(Main_Cource)/02_Algorithmic/)
 ---
 >> #### This branch contains several directions: Algorithms, Data Science, Cryptography.
-> - [[>]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/02_Algorithmic/00____ft_printf) ft_printf
+> - [[>]](./01_Projects__(Main_Cource)/02_Algorithmic/00____ft_printf) ft_printf
 ---
 
 
 
-> ### [[Graphic branch]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/03_Graphic/)
+> ### [[Graphic branch]](./01_Projects__(Main_Cource)/03_Graphic/)
 ---
-> - [[>]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/03_Graphic/02____wolf3d_(cub3d)) Wolf3D (cub3d)
+> - [[>]](./01_Projects__(Main_Cource)/03_Graphic/02____wolf3d_(cub3d)) Wolf3D (cub3d)
 ---
 
 
 
-> ### [[Infrastructure & Network Administration]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)//05_Infrastructure_and_Admin/)
+> ### [[Infrastructure & Network Administration]](./01_Projects__(Main_Cource)/05_Infrastructure_and_Admin/)
 ---
-> - [[>]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/05_Infrastructure_and_Admin/00____init) init
-> - [[>]](./00_Projects__(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)/05_Infrastructure_and_Admin/01____docker-1) docker-1
+> - [[>]](./01_Projects__(Main_Cource)/05_Infrastructure_and_Admin/00____init) init
+> - [[>]](./01_Projects__(Main_Cource)/05_Infrastructure_and_Admin/01____docker-1) docker-1
 ---
