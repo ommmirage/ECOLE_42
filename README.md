@@ -8,8 +8,12 @@
 - [2. Piscine by language C](#2-piscine-c)
 - [3. Main training](#3-main-training)
   - [Global branch](#global---shared-branch)
+  - [UNIX branch](#unix-branch)
   - [Algorithmic branch](#algorithmic-branch)
-  - [Infrastructure & Network Administration](#infrastructure--network-administration)
+  - [Graphic branch](#graphic-branch)
+  - [WEB branch](#web-branch)
+  - [Android & iOS branch](#android--ios-branch)
+  - [C++ branch](#c-branch)
 
 
 # Introduction #
@@ -119,7 +123,8 @@ Use [ the `Holy Graph` project map ](./holygraph) direction map to progress thro
 > - [[>]](./01_Projects__(Main_Cource)/03_Graphic/02____wolf3d_(cub3d)) Wolf3D (cub3d)
 ---
 
-
+> ### [[C++ branch]](./01_Projects__(Main_Cource)/07_CPP/)
+---
 
 > ### [[Infrastructure & Network Administration]](./01_Projects__(Main_Cource)/05_Infrastructure_and_Admin/)
 ---
