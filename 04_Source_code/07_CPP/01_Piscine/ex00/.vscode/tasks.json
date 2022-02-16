@@ -4,16 +4,19 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Build",
-            "type": "shell",
+            "type": "cppbuild",
+            "label": "C/C++: g++.exe build active file",
             "command": "g++",
-            "args": [
-                "-o"
-            ],
-            "group":{
+            "args": ["-g", "${file}", "-o", "${fileBasenameNoExtension}"],
+            "options": {
+                "cwd": "${fileDirname}"
+            },
+            "problemMatcher": ["$gcc"],
+            "group": {
                 "kind": "build",
                 "isDefault": true
-            }
+            },
+            "detail": "compiler: C:/msys64/mingw64/bin/g++.exe"
         }
     ]
 }
